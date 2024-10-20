@@ -18,3 +18,6 @@
 - **Vue Router**：實現應用內頁面導航。
 - **Axios**：用於與後端 API 進行 HTTP 請求。
 - **Vite**：用於開發環境和建置工具。
+
+## 使用
+啟動圖書館的後端與前端應用程式後訪問http://localhost:3000/register
